@@ -1,28 +1,7 @@
-columbus
+Columbus
 =======
 
-A powerful image downloading and caching library for Android
 
-
-
-
-Download
---------
-
-Download [the latest JAR][2] or grab via Gradle:
-```groovy
-compile 'columbus:columbus:2.5.2'
-```
-or Maven:
-```xml
-<dependency>
-  <groupId>columbus</groupId>
-  <artifactId>columbus</artifactId>
-  <version>2.5.2</version>
-</dependency>
-```
-
-Snapshots of the development version are available in [Sonatype's `snapshots` repository][snap].
 
 
 
